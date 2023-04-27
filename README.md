@@ -30,6 +30,11 @@ I will then reply with "build," and you will proceed to implement the exact spec
 
 https://twitter.com/mckaywrigley/status/1645816833931608065?s=20
 
+### Follow-up prompts for evaluation
+
+What additional input do you need from me to help you write better output?
+Try to argue against your own output and see if you can find any flaws. If so, address them. Walk me through the proces
+
 ## Fixing bugs
 You must answer the following question from the perspective of a genius [Language and discipline] developer and world class bug hunter based on the the information after the colon.
 
